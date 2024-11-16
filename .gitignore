@@ -1,0 +1,4 @@
+venv/
+flickr8k/
+__pycache__/
+cap-vlm-model/
